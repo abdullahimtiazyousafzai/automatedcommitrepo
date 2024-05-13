@@ -1,5 +1,3 @@
-These Below commits are automated through a bash script:
-
 
 <<<<<<< HEAD
 Now time: و 23:22:21 PKT ت 13 مئی 2024
